@@ -1,4 +1,4 @@
-# Theoritical Questions
+# Theoretical Questions
 
 ### 1. What is the Geolocation API in HTML5?
 
